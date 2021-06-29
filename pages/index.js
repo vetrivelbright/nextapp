@@ -7,7 +7,7 @@ export default function Home() {
         <div>
         <head>
         <title> Home page </title> </head>         
-        welcome to next js app hello world </div>
+        welcome to next js single page website developed by Vetrivel Samidurai </div>
 
     )
 }
